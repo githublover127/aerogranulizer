@@ -1,0 +1,10 @@
+{
+  "name": "AeroGrain - Frutiger Aero iOS Granulizer",
+  "description": "A skeuomorphic Frutiger Aero iOS granular synthesizer and resampling studio for mobile and desktop.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
